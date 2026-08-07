@@ -24,6 +24,8 @@
 
 Software engineer at [Blinka](https://blinka.co/), building product and payments & investing API integrations.
 
+Off the clock: basketball and Twitch live streams.
+
 <!-- ============ STATS ============ -->
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChusitooXDuwu&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
