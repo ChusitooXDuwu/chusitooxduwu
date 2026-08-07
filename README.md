@@ -2,7 +2,7 @@
 
 <!-- ============ TYPING TEXT ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=6E8AFA&center=true&vCenter=true&width=600&lines=Software+engineer+in+fintech;Payments+and+investing+API+integrations;Bogot%C3%A1%2C+Colombia" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=6E8AFA&center=true&vCenter=true&width=600&lines=Chu;Full-stack+developer;Bogot%C3%A1%2C+Colombia" alt="typing" />
 </p>
 
 <!-- ============ STACK ============ -->
@@ -25,20 +25,6 @@
 Software engineer at [Blinka](https://blinka.co/), building product and payments & investing API integrations.
 
 Off the clock: basketball and Twitch live streams.
-
-<!-- ============ STATS ============ -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChusitooXDuwu&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChusitooXDuwu&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChusitooXDuwu&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChusitooXDuwu&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</p>
 
 <!-- ============ CONTACT ============ -->
 <p align="center">
